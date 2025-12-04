@@ -1,0 +1,663 @@
+Party Statistics:
+Lab: 7716576 votes (67.05%)
+SNP: 207526 votes (1.80%)
+Con: 3084776 votes (26.81%)
+DUP: 91255 votes (0.79%)
+SF: 152320 votes (1.32%)
+SDLP: 36992 votes (0.32%)
+Green: 100214 votes (0.87%)
+PC: 69636 votes (0.61%)
+APNI: 32226 votes (0.28%)
+UUP: 16311 votes (0.14%)
+
+Constituency Summary:
+Aberafan Maesteg - Stephen Kinnock (Lab) - 17838 votes
+Aberdeen North - Kirsty Blackman (SNP) - 14533 votes
+Aberdeen South - Stephen Flynn (SNP) - 15213 votes
+Aberdeenshire North and Moray East - Seamus Logan (SNP) - 13455 votes
+Airdrie and Shotts - Kenneth Stevenson (Lab) - 18871 votes
+Aldershot - Alex Baker (Lab) - 19764 votes
+Aldridge-Brownhills - Wendy Morton (Con) - 15901 votes
+Alloa and Grangemouth - Brian Leishman (Lab) - 18039 votes
+Altrincham and Sale West - Connor Rand (Lab) - 20798 votes
+Alyn and Deeside - Mark Tami (Lab) - 18395 votes
+Amber Valley - Linsey Farnsworth (Lab) - 15746 votes
+Angus and Perthshire Glens - Dave Doogan (SNP) - 19142 votes
+Arbroath and Broughty Ferry - Stephen Gethins (SNP) - 15581 votes
+Argyll  Bute and South Lochaber - Brendan O'Hara (SNP) - 15582 votes
+Arundel and South Downs - Andrew Griffith (Con) - 22001 votes
+Ashfield - Lee Anderson (Lab) - 11554 votes
+Ashford - Sojan Joseph (Lab) - 15262 votes
+Ashton-under-Lyne - Angela Rayner (Lab) - 15575 votes
+Aylesbury - Laura Kyrke-Smith (Lab) - 15081 votes
+Ayr  Carrick and Cumnock - Elaine Stewart (Lab) - 14930 votes
+Banbury - Sean Woodcock (Lab) - 18468 votes
+Bangor Aberconwy - Claire Hughes (Lab) - 14008 votes
+Barking - Nesil Caliskan (Lab) - 16227 votes
+Barnsley North - Dan Jarvis (Lab) - 18610 votes
+Barnsley South - Stephanie Peacock (Lab) - 16399 votes
+Barrow and Furness - Michelle Scrogham (Lab) - 18537 votes
+Basildon and Billericay - Richard Holden (Con) - 12905 votes
+Basingstoke - Luke Murphy (Lab) - 20922 votes
+Bassetlaw - Jo White (Lab) - 18476 votes
+Bath - Wera Hobhouse (Lab) - 8665 votes
+Bathgate and Linlithgow - Kirsteen Sullivan (Lab) - 19774 votes
+Battersea - Marsha De Cordova (Lab) - 22983 votes
+Beaconsfield - Joy Morrissey (Con) - 18494 votes
+Beckenham and Penge - Liam Conlon (Lab) - 25753 votes
+Bedford - Mohammad Yasin (Lab) - 18342 votes
+Belfast East - Gavin Robinson (DUP) - 19894 votes
+Belfast North - John Finucane (SF) - 17674 votes
+Belfast South and Mid Down - Claire Hanna (SDLP) - 21345 votes
+Belfast West - Paul Maskey (SF) - 21009 votes
+Bermondsey and Old Southwark - Neil Coyle (Lab) - 16857 votes
+Berwickshire  Roxburgh and Selkirk - John Lamont (Con) - 18872 votes
+Bethnal Green and Stepney - Rushanara Ali (Lab) - 15896 votes
+Beverley and Holderness - Graham Stuart (Con) - 15501 votes
+Bexhill and Battle - Kieran Mullan (Con) - 16186 votes
+Bexleyheath and Crayford - Daniel Francis (Lab) - 15717 votes
+Bicester and Woodstock - Calum Miller (Con) - 14461 votes
+Birkenhead - Alison McGovern (Lab) - 22468 votes
+Birmingham Edgbaston - Preet Gill (Lab) - 16599 votes
+Birmingham Erdington - Paulette Hamilton (Lab) - 14774 votes
+Birmingham Hall Green and Moseley - Tahir Ali (Lab) - 12798 votes
+Birmingham Hodge Hill and Solihull North - Liam Byrne (Lab) - 10655 votes
+Birmingham Ladywood - Shabana Mahmood (Lab) - 15558 votes
+Birmingham Northfield - Laurence Turner (Lab) - 14929 votes
+Birmingham Perry Barr - Ayoub Khan (Lab) - 12796 votes
+Birmingham Selly Oak - Al Carns (Lab) - 17371 votes
+Birmingham Yardley - Jess Phillips (Lab) - 11275 votes
+Bishop Auckland - Sam Rushworth (Lab) - 17036 votes
+Blackburn - Adnan Hussain (Lab) - 10386 votes
+Blackley and Middleton South - Graham Stringer (Lab) - 16864 votes
+Blackpool North and Fleetwood - Lorraine Beavers (Lab) - 16744 votes
+Blackpool South - Chris Webb (Lab) - 16916 votes
+Blaenau Gwent and Rhymney - Nick Smith (Lab) - 16027 votes
+Blaydon and Consett - Liz Twist (Lab) - 21160 votes
+Blyth and Ashington - Ian Lavery (Lab) - 20030 votes
+Bognor Regis and Littlehampton - Alison Griffiths (Con) - 15678 votes
+Bolsover - Natalie Fleet (Lab) - 17197 votes
+Bolton North East - Kirith Entwistle (Lab) - 16166 votes
+Bolton South and Walkden - Yasmin Qureshi (Lab) - 15093 votes
+Bolton West - Phil Brickell (Lab) - 17363 votes
+Bootle - Peter Dowd (Lab) - 26729 votes
+Boston and Skegness - Richard Tice (Con) - 13510 votes
+Bournemouth East - Tom Hayes (Lab) - 18316 votes
+Bournemouth West - Jessica Toale (Lab) - 14365 votes
+Bracknell - Peter Swallow (Lab) - 14783 votes
+Bradford East - Imran Hussain (Lab) - 14098 votes
+Bradford South - Judith Cummins (Lab) - 11833 votes
+Bradford West - Naz Shah (Lab) - 11724 votes
+Braintree - James Cleverly (Con) - 17414 votes
+Brecon  Radnor and Cwm Tawe - David Chadwick (Con) - 12264 votes
+Brent East - Dawn Butler (Lab) - 19370 votes
+Brent West - Barry Gardiner (Lab) - 17258 votes
+Brentford and Isleworth - Ruth Cadbury (Lab) - 20007 votes
+Brentwood and Ongar - Alex Burghart (Con) - 17731 votes
+Bridgend - Chris Elmore (Lab) - 16516 votes
+Bridgwater - Ashley Fox (Con) - 12281 votes
+Bridlington and The Wolds - Charlie Dewhirst (Con) - 14846 votes
+Brigg and Immingham - Martin Vickers (Con) - 15905 votes
+Brighton Kemptown and Peacehaven - Chris Ward (Lab) - 17893 votes
+Brighton Pavilion - Sin Berry (Green) - 28809 votes
+Bristol Central - Carla Denyer (Green) - 24539 votes
+Bristol East - Kerry McCarthy (Lab) - 20748 votes
+Bristol North East - Damien Egan (Lab) - 19004 votes
+Bristol North West - Darren Jones (Lab) - 24058 votes
+Bristol South - Karin Smyth (Lab) - 18521 votes
+Broadland and Fakenham - Jerome Mayhew (Con) - 16322 votes
+Bromley and Biggin Hill - Peter Fortune (Con) - 15929 votes
+Bromsgrove - Bradley Thomas (Con) - 16533 votes
+Broxbourne - Lewis Cocking (Con) - 15810 votes
+Broxtowe - Juliet Campbell (Lab) - 19561 votes
+Buckingham and Bletchley - Callum Anderson (Lab) - 17602 votes
+Burnley - Oliver Ryan (Lab) - 12598 votes
+Burton and Uttoxeter - Jacob Collier (Lab) - 16222 votes
+Bury North - James Frith (Lab) - 19625 votes
+Bury South - Christian Wakeford (Lab) - 19247 votes
+Bury St Edmunds and Stowmarket - Peter Prinsley (Lab) - 16745 votes
+Caerfyrddin - Ann Davies (PC) - 15520 votes
+Caerphilly - Chris Evans (Lab) - 14538 votes
+Caithness  Sutherland and Easter Ross - Jamie Stone (SNP) - 12247 votes
+Calder Valley - Josh Fenton-Glynn (Lab) - 22046 votes
+Camborne and Redruth - Perran Moon (Lab) - 19360 votes
+Cambridge - Daniel Zeichner (Lab) - 19614 votes
+Cannock Chase - Josh Newbury (Lab) - 15671 votes
+Canterbury - Rosie Duffield (Lab) - 19531 votes
+Cardiff East - Jo Stevens (Lab) - 15833 votes
+Cardiff North - Anna McMorrin (Lab) - 20849 votes
+Cardiff South and Penarth - Stephen Doughty (Lab) - 17428 votes
+Cardiff West - Alex Barros-Curtis (Lab) - 16442 votes
+Carlisle - Julie Minns (Lab) - 18129 votes
+Carshalton and Wallington - Bobby Dean (Con) - 12221 votes
+Castle Point - Rebecca Harris (Con) - 15485 votes
+Central Ayrshire - Alan Gemmell (Lab) - 18091 votes
+Central Devon - Mel Stride (Con) - 16831 votes
+Central Suffolk and North Ipswich - Patrick Spencer (Con) - 15144 votes
+Ceredigion Preseli - Ben Lake (PC) - 21738 votes
+Chatham and Aylesford - Tristan Osborne (Lab) - 13689 votes
+Cheadle - Tom Morrison (Con) - 11446 votes
+Chelmsford - Marie Goldman (Con) - 15461 votes
+Chelsea and Fulham - Ben Coleman (Lab) - 18556 votes
+Cheltenham - Max Wilkinson (Con) - 17866 votes
+Chesham and Amersham - Sarah Green (Con) - 18971 votes
+Chester North and Neston - Samantha Dixon (Lab) - 22258 votes
+Chester South and Eddisbury - Aphra Brandreth (Con) - 19905 votes
+Chesterfield - Toby Perkins (Lab) - 19316 votes
+Chichester - Jess Brown-Fuller (Con) - 13368 votes
+Chingford and Woodford Green - Iain Duncan Smith (Con) - 17281 votes
+Chippenham - Sarah Gibson (Con) - 14414 votes
+Chipping Barnet - Dan Tomlinson (Lab) - 21585 votes
+Chorley - Lindsay Hoyle (Green) - 4663 votes
+Christchurch - Christopher Chope (Con) - 16941 votes
+Cities of London and Westminster - Rachel Blake (Lab) - 15302 votes
+City of Durham - Mary Foy (Lab) - 19131 votes
+Clacton - Nigel Farage (Con) - 12820 votes
+Clapham and Brixton Hill - Bell Ribeiro-Addy (Lab) - 24166 votes
+Clwyd East - Becky Gittins (Lab) - 18484 votes
+Clwyd North - Gill German (Lab) - 14794 votes
+Coatbridge and Bellshill - Frank McNally (Lab) - 19291 votes
+Colchester - Pam Cox (Lab) - 18804 votes
+Colne Valley - Paul Davies (Lab) - 18970 votes
+Congleton - Sarah Russell (Lab) - 18875 votes
+Corby and East Northamptonshire - Lee Barron (Lab) - 21020 votes
+Coventry East - Mary Creagh (Lab) - 18308 votes
+Coventry North West - Taiwo Owatemi (Lab) - 19696 votes
+Coventry South - Zarah Sultana (Lab) - 20361 votes
+Cowdenbeath and Kirkcaldy - Melanie Ward (Lab) - 18662 votes
+Cramlington and Killingworth - Emma Foody (Lab) - 22274 votes
+Crawley - Peter Lamb (Lab) - 17453 votes
+Crewe and Nantwich - Connor Naismith (Lab) - 20837 votes
+Croydon East - Natasha Irons (Lab) - 18541 votes
+Croydon South - Chris Philp (Con) - 19757 votes
+Croydon West - Sarah Jones (Lab) - 20612 votes
+Cumbernauld and Kirkintilloch - Katrina Murray (Lab) - 18513 votes
+Dagenham and Rainham - Margaret Mullane (Lab) - 16571 votes
+Darlington - Lola McEvoy (Lab) - 16621 votes
+Dartford - Jim Dickson (Lab) - 15392 votes
+Daventry - Stuart Andrew (Con) - 17872 votes
+Derby North - Catherine Atkinson (Lab) - 18619 votes
+Derby South - Baggy Shanker (Lab) - 14503 votes
+Derbyshire Dales - John Whitby (Lab) - 17759 votes
+Dewsbury and Batley - Iqbal Mohamed (Lab) - 8707 votes
+Didcot and Wantage - Olly Glover (Con) - 15560 votes
+Doncaster Central - Sally Jameson (Lab) - 17515 votes
+Doncaster East and the Isle of Axholme - Lee Pitcher (Lab) - 15122 votes
+Doncaster North - Ed Miliband (Lab) - 16231 votes
+Dorking and Horley - Chris Coghlan (Con) - 15530 votes
+Dover and Deal - Mike Tapp (Lab) - 18940 votes
+Droitwich and Evesham - Nigel Huddleston (Con) - 19975 votes
+Dudley - Sonia Kumar (Lab) - 12215 votes
+Dulwich and West Norwood - Helen Hayes (Lab) - 27356 votes
+Dumfries and Galloway - John Cooper (Con) - 13527 votes
+Dumfriesshire  Clydesdale and Tweeddale - David Mundell (Con) - 14999 votes
+Dundee Central - Chris Law (SNP) - 15544 votes
+Dunfermline and Dollar - Graeme Downie (Lab) - 20336 votes
+Dunstable and Leighton Buzzard - Alex Mayer (Lab) - 14976 votes
+Dwyfor Meirionnydd - Liz Saville Roberts (PC) - 21788 votes
+Ealing Central and Acton - Rupa Huq (Lab) - 22340 votes
+Ealing North - James Murray (Lab) - 20663 votes
+Ealing Southall - Deirdre Costigan (Lab) - 23000 votes
+Earley and Woodley - Yuan Yang (Lab) - 18209 votes
+Easington - Grahame Morris (Lab) - 16774 votes
+East Antrim - Sammy Wilson (DUP) - 11462 votes
+East Grinstead and Uckfield - Mims Davies (Con) - 19319 votes
+East Ham - Stephen Timms (Lab) - 19570 votes
+East Hampshire - Damian Hinds (Con) - 18509 votes
+East Kilbride and Strathaven - Joani Reid (Lab) - 22682 votes
+East Londonderry - Gregory Campbell (DUP) - 11506 votes
+East Renfrewshire - Blair McDougall (Lab) - 21935 votes
+East Surrey - Claire Coutinho (Con) - 17502 votes
+East Thanet - Polly Billington (Lab) - 17054 votes
+East Wiltshire - Danny Kruger (Con) - 16849 votes
+East Worthing and Shoreham - Tom Rutland (Lab) - 22120 votes
+Eastbourne - Josh Babarinde (Con) - 11538 votes
+Eastleigh - Liz Jarvis (Con) - 14424 votes
+Edinburgh East and Musselburgh - Chris Murray (Lab) - 18790 votes
+Edinburgh North and Leith - Tracy Gilbert (Lab) - 20805 votes
+Edinburgh South - Ian Murray (Lab) - 24976 votes
+Edinburgh South West - Scott Arthur (Lab) - 18663 votes
+Edinburgh West - Christine Jardine (SNP) - 10175 votes
+Edmonton and Winchmore Hill - Kate Osamor (Lab) - 20520 votes
+Ellesmere Port and Bromborough - Justin Madders (Lab) - 24186 votes
+Eltham and Chislehurst - Clive Efford (Lab) - 20069 votes
+Ely and East Cambridgeshire - Charlotte Cane (Con) - 16632 votes
+Enfield North - Feryal Clark (Lab) - 21368 votes
+Epping Forest - Neil Hudson (Con) - 18038 votes
+Epsom and Ewell - Helen Maguire (Con) - 16988 votes
+Erewash - Adam Thompson (Lab) - 17224 votes
+Erith and Thamesmead - Abena Oppong-Asare (Lab) - 22246 votes
+Esher and Walton - Monica Harding (Con) - 16312 votes
+Exeter - Steve Race (Lab) - 18225 votes
+Exmouth and Exeter East - David Reed (Con) - 14728 votes
+Falkirk - Euan Stainbank (Lab) - 18343 votes
+Fareham and Waterlooville - Suella Braverman (Con) - 17561 votes
+Farnham and Bordon - Greg Stafford (Con) - 18951 votes
+Faversham and Mid Kent - Helen Whately (Con) - 14816 votes
+Feltham and Heston - Seema Malhotra (Lab) - 16139 votes
+Fermanagh and South Tyrone - Pat Cullen (SF) - 24844 votes
+Filton and Bradley Stoke - Claire Hazelgrove (Lab) - 22905 votes
+Finchley and Golders Green - Sarah Sackman (Lab) - 21857 votes
+Folkestone and Hythe - Tony Vaughan (Lab) - 15020 votes
+Forest of Dean - Matt Bishop (Lab) - 16373 votes
+Foyle - Colum Eastwood (SDLP) - 15647 votes
+Frome and East Somerset - Anna Sabine (Con) - 11165 votes
+Fylde - Andrew Snowden (Con) - 15917 votes
+Gainsborough - Edward Leigh (Con) - 16636 votes
+Gateshead Central and Whickham - Mark Ferguson (Lab) - 18245 votes
+Gedling - Michael Payne (Lab) - 23278 votes
+Gillingham and Rainham - Naushabah Khan (Lab) - 15562 votes
+Glasgow East - John Grady (Lab) - 15543 votes
+Glasgow North - Martin Rhodes (Lab) - 14655 votes
+Glasgow North East - Maureen Burke (Lab) - 15639 votes
+Glasgow South - Gordon McKee (Lab) - 17696 votes
+Glasgow South West - Zubir Ahmed (Lab) - 15552 votes
+Glasgow West - Patricia Ferguson (Lab) - 18621 votes
+Glastonbury and Somerton - Sarah Dyke (Con) - 13753 votes
+Glenrothes and Mid Fife - Richard Baker (Lab) - 15994 votes
+Gloucester - Alex McIntyre (Lab) - 16472 votes
+Godalming and Ash - Jeremy Hunt (Con) - 23293 votes
+Goole and Pocklington - David Davis (Con) - 18981 votes
+Gordon and Buchan - Harriet Cross (Con) - 14418 votes
+Gorton and Denton - Andrew Gwynne (Lab) - 18555 votes
+Gosport - Caroline Dinenage (Con) - 17830 votes
+Gower - Tonia Antoniazzi (Lab) - 20480 votes
+Grantham and Bourne - Gareth Davies (Con) - 16770 votes
+Gravesham - Lauren Sullivan (Lab) - 16623 votes
+Great Grimsby and Cleethorpes - Melanie Onn (Lab) - 15336 votes
+Great Yarmouth - Rupert Lowe (Lab) - 12959 votes
+Greenwich and Woolwich - Matthew Pennycook (Lab) - 23999 votes
+Guildford - Ze Franklin (Con) - 14508 votes
+Hackney North and Stoke Newington - Diane Abbott (Lab) - 24355 votes
+Hackney South and Shoreditch - Meg Hillier (Lab) - 24724 votes
+Halesowen - Alex Ballinger (Lab) - 15023 votes
+Halifax - Kate Dearden (Lab) - 14135 votes
+Hamble Valley - Paul Holmes (Con) - 19671 votes
+Hamilton and Clyde Valley - Imogen Walker (Lab) - 21020 votes
+Hammersmith and Chiswick - Andy Slaughter (Lab) - 24073 votes
+Hampstead and Highgate - Tulip Siddiq (Lab) - 23432 votes
+Harborough  Oadby and Wigston - Neil O'Brien (Con) - 18614 votes
+Harlow - Chris Vince (Lab) - 16313 votes
+Harpenden and Berkhamsted - Victoria Collins (Con) - 16574 votes
+Harrogate and Knaresborough - Tom Gordon (Con) - 15738 votes
+Harrow East - Bob Blackman (Con) - 25466 votes
+Harrow West - Gareth Thomas (Lab) - 19833 votes
+Hartlepool - Jonathan Brash (Lab) - 16414 votes
+Harwich and North Essex - Bernard Jenkin (Con) - 16522 votes
+Hastings and Rye - Helena Dollimore (Lab) - 19134 votes
+Havant - Alan Mak (Con) - 12986 votes
+Hayes and Harlington - John McDonnell (Lab) - 20405 votes
+Hazel Grove - Lisa Smart (Lab) - 10828 votes
+Hemel Hempstead - David Taylor (Lab) - 16844 votes
+Hendon - David Pinto-Duschinsky (Lab) - 15855 votes
+Henley and Thame - Freddie Van Mierlo (Con) - 17637 votes
+Hereford and South Herefordshire - Jesse Norman (Con) - 14871 votes
+Herne Bay and Sandwich - Roger Gale (Con) - 17243 votes
+Hertford and Stortford - Joshua Robert Abraham Dean (Lab) - 20808 votes
+Hertsmere - Oliver Dowden (Con) - 21451 votes
+Hexham - Joe Morris (Lab) - 23988 votes
+Heywood and Middleton North - Elsie Blundell (Lab) - 15069 votes
+High Peak - Jon Pearce (Lab) - 22533 votes
+Hinckley and Bosworth - Luke Evans (Con) - 17032 votes
+Hitchin - Alistair Strathern (Lab) - 23067 votes
+Holborn and St Pancras - Keir Starmer (Lab) - 18884 votes
+Honiton and Sidmouth - Richard Foord (Con) - 16307 votes
+Hornchurch and Upminster - Julia Lopez (Con) - 15260 votes
+Hornsey and Friern Barnet - Catherine West (Lab) - 28535 votes
+Horsham - John Milne (Con) - 19115 votes
+Houghton and Sunderland South - Bridget Phillipson (Lab) - 18837 votes
+Hove and Portslade - Peter Kyle (Lab) - 27209 votes
+Huddersfield - Harpreet Uppal (Lab) - 15101 votes
+Huntingdon - Ben Obese-Jecty (Con) - 18257 votes
+Hyndburn - Sarah Smith (Lab) - 12186 votes
+Ilford North - Wes Streeting (Lab) - 15647 votes
+Ilford South - Jas Athwal (Lab) - 16537 votes
+Inverclyde and Renfrewshire West - Martin McCluskey (Lab) - 18931 votes
+Inverness  Skye and West Ross-shire - Angus MacDonald (SNP) - 15999 votes
+Ipswich - Jack Abbott (Lab) - 19099 votes
+Isle of Wight East - Joe Robertson (Con) - 10427 votes
+Isle of Wight West - Richard Quigley (Lab) - 13240 votes
+Islington North - Jeremy Corbyn (Lab) - 16873 votes
+Islington South and Finsbury - Emily Thornberry (Lab) - 22946 votes
+Jarrow and Gateshead East - Kate Osborne (Lab) - 18856 votes
+Keighley and Ilkley - Robbie Moore (Con) - 18589 votes
+Kenilworth and Southam - Jeremy Wright (Con) - 19395 votes
+Kensington and Bayswater - Joe Powell (Lab) - 17025 votes
+Kettering - Rosie Wrighting (Lab) - 18009 votes
+Kilmarnock and Loudoun - Lillian Jones (Lab) - 19055 votes
+Kingston and Surbiton - Ed Davey (Con) - 8635 votes
+Kingston upon Hull East - Karl Turner (Lab) - 13047 votes
+Kingston upon Hull North and Cottingham - Diana Johnson (Lab) - 18480 votes
+Kingston upon Hull West and Haltemprice - Emma Hardy (Lab) - 17875 votes
+Kingswinford and South Staffordshire - Mike Wood (Con) - 18199 votes
+Knowsley - Anneliese Midgley (Lab) - 24243 votes
+Lagan Valley - Sorcha-Lucy Eastwood (APNI) - 18618 votes
+Lancaster and Wyre - Cat Smith (Lab) - 19315 votes
+Leeds Central and Headingley - Alex Sobel (Lab) - 15853 votes
+Leeds East - Richard Burgon (Lab) - 18610 votes
+Leeds North East - Fabian Hamilton (Lab) - 23260 votes
+Leeds North West - Katie White (Lab) - 22882 votes
+Leeds South - Hilary Benn (Lab) - 17117 votes
+Leeds South West and Morley - Mark Sewards (Lab) - 17681 votes
+Leeds West and Pudsey - Rachel Reeves (Lab) - 18976 votes
+Leicester East - Shivani Raja (Con) - 14526 votes
+Leicester South - Shockat Adam (Lab) - 13760 votes
+Leicester West - Liz Kendall (Lab) - 15798 votes
+Leigh and Atherton - Jo Platt (Lab) - 19971 votes
+Lewes - James MacCleary (Con) - 14271 votes
+Lewisham East - Janet Daby (Lab) - 23646 votes
+Lewisham North - Vicky Foxcroft (Lab) - 25467 votes
+Lewisham West and East Dulwich - Ellie Reeves (Lab) - 27406 votes
+Leyton and Wanstead - Calvin Bailey (Lab) - 20755 votes
+Lichfield - Dave Robertson (Lab) - 17232 votes
+Lincoln - Hamish Falconer (Lab) - 18470 votes
+Liverpool Garston - Maria Eagle (Lab) - 24510 votes
+Liverpool Riverside - Kim Johnson (Lab) - 20039 votes
+Liverpool Walton - Dan Carden (Lab) - 26032 votes
+Liverpool Wavertree - Paula Barker (Lab) - 23077 votes
+Liverpool West Derby - Ian Byrne (Lab) - 25302 votes
+Livingston - Gregor Poynton (Lab) - 18324 votes
+Llanelli - Nia Griffith (Lab) - 12751 votes
+Lothian East - Douglas Alexander (Lab) - 23555 votes
+Loughborough - Jeevun Sandher (Lab) - 17249 votes
+Louth and Horncastle - Victoria Atkins (Con) - 17441 votes
+Lowestoft - Jess Asato (Lab) - 14464 votes
+Luton North - Sarah Owen (Lab) - 14677 votes
+Luton South and South Bedfordshire - Rachel Hopkins (Lab) - 13593 votes
+Macclesfield - Tim Roca (Lab) - 24672 votes
+Maidenhead - Joshua Reynolds (Con) - 18932 votes
+Maidstone and Malling - Helen Grant (Con) - 14146 votes
+Makerfield - Josh Simons (Lab) - 18202 votes
+Maldon - John Whittingdale (Con) - 19374 votes
+Manchester Central - Lucy Powell (Lab) - 20184 votes
+Manchester Rusholme - Afzal Khan (Lab) - 15054 votes
+Manchester Withington - Jeff Smith (Lab) - 22066 votes
+Mansfield - Steve Yemm (Lab) - 16048 votes
+Melksham and Devizes - Brian Mathew (Con) - 17630 votes
+Melton and Syston - Edward Argar (Con) - 17526 votes
+Meriden and Solihull East - Saqib Bhatti (Con) - 16792 votes
+Merthyr Tydfil and Aberdare - Gerald Jones (Lab) - 15791 votes
+Mid and South Pembrokeshire - Henry Tufnell (Lab) - 16505 votes
+Mid Bedfordshire - Blake Stephenson (Con) - 16912 votes
+Mid Buckinghamshire - Greg Smith (Con) - 20150 votes
+Mid Cheshire - Andrew Cooper (Lab) - 18457 votes
+Mid Derbyshire - Jonathan Davies (Lab) - 17346 votes
+Mid Dorset and North Poole - Vikki Slade (Con) - 20090 votes
+Mid Dunbartonshire - Susan Murray (SNP) - 12676 votes
+Mid Leicestershire - Peter Bedford (Con) - 17735 votes
+Mid Norfolk - George Freeman (Con) - 16770 votes
+Mid Sussex - Alison Bennett (Con) - 14474 votes
+Mid Ulster - Cathal Mallaghan (SF) - 24085 votes
+Middlesbrough and Thornaby East - Andy McDonald (Lab) - 16238 votes
+Middlesbrough South and East Cleveland - Luke Myer (Lab) - 16468 votes
+Midlothian - Kirsty McNeill (Lab) - 21480 votes
+Milton Keynes Central - Emily Darlington (Lab) - 20209 votes
+Milton Keynes North - Chris Curtis (Lab) - 19318 votes
+Mitcham and Morden - Siobhain McDonagh (Lab) - 25085 votes
+Monmouthshire - Catherine Fookes (Lab) - 21010 votes
+Montgomeryshire and Glynd?r - Steve Witherden (Lab) - 12709 votes
+Moray West  Nairn and Strathspey - Graham Leadbitter (SNP) - 14961 votes
+Morecambe and Lunesdale - Lizzi Collinge (Lab) - 19603 votes
+Motherwell  Wishaw and Carluke - Pamela Nash (Lab) - 19168 votes
+Na h-Eileanan an Iar - Torcuil Crichton (Lab) - 6692 votes
+Neath and Swansea East - Carolyn Harris (Lab) - 16797 votes
+New Forest East - Julian Lewis (Con) - 17412 votes
+New Forest West - Desmond Swayne (Con) - 16412 votes
+Newark - Robert Jenrick (Con) - 20968 votes
+Newbury - Lee Dillon (Con) - 17268 votes
+Newcastle upon Tyne Central and West - Chi Onwurah (Lab) - 18875 votes
+Newcastle upon Tyne East and Wallsend - Mary Glindon (Lab) - 21200 votes
+Newcastle upon Tyne North - Catherine McKinnell (Lab) - 24440 votes
+Newcastle-under-Lyme - Adam Jogee (Lab) - 15992 votes
+Newport East - Jessica Morden (Lab) - 16370 votes
+Newport West and Islwyn - Ruth Jones (Lab) - 17409 votes
+Newry and Armagh - D ire Hughes (SF) - 22299 votes
+Newton Abbot - Martin Wrigley (Con) - 12955 votes
+Newton Aycliffe and Spennymoor - Alan Strickland (Lab) - 18394 votes
+Normanton and Hemsworth - Jon Trickett (Lab) - 17275 votes
+North Antrim - Jim Allister (DUP) - 11192 votes
+North Ayrshire and Arran - Irene Campbell (Lab) - 16821 votes
+North Bedfordshire - Richard Fuller (Con) - 19981 votes
+North Cornwall - Ben Maguire (Con) - 14137 votes
+North Cotswolds - Geoffrey Clifton-Brown (Con) - 17426 votes
+North Devon - Ian Roome (Con) - 15076 votes
+North Dorset - Simon Hoare (Con) - 18208 votes
+North Down - Alex Easton (APNI) - 13608 votes
+North Durham - Luke Akehurst (Lab) - 16562 votes
+North East Cambridgeshire - Steve Barclay (Con) - 16246 votes
+North East Derbyshire - Louise Jones (Lab) - 17591 votes
+North East Fife - Wendy Chamberlain (SNP) - 9905 votes
+North East Hampshire - Alex Brewer (Con) - 20544 votes
+North East Hertfordshire - Chris Hinchliff (Lab) - 18358 votes
+North East Somerset and Hanham - Dan Norris (Lab) - 20739 votes
+North Herefordshire - Ellie Chowns (Green) - 21736 votes
+North Norfolk - Steffan Aquarone (Con) - 16903 votes
+North Northumberland - David Smith (Lab) - 17855 votes
+North Shropshire - Helen Morgan (Con) - 10903 votes
+North Somerset - Sadik Al-Hassan (Lab) - 19138 votes
+North Warwickshire and Bedworth - Rachel Taylor (Lab) - 14727 votes
+North West Cambridgeshire - Sam Carling (Lab) - 14785 votes
+North West Essex - Kemi Badenoch (Con) - 19360 votes
+North West Hampshire - Kit Malthouse (Con) - 17770 votes
+North West Leicestershire - Amanda Hack (Lab) - 16871 votes
+North West Norfolk - James Wild (Con) - 16097 votes
+Northampton North - Lucy Rigby (Lab) - 18209 votes
+Northampton South - Mike Reader (Lab) - 16890 votes
+Norwich North - Alice Macdonald (Lab) - 20794 votes
+Norwich South - Clive Lewis (Lab) - 21484 votes
+Nottingham East - Nadia Whittome (Lab) - 19494 votes
+Nottingham North and Kimberley - Alex Norris (Lab) - 16480 votes
+Nottingham South - Lilian Greenwood (Lab) - 15579 votes
+Nuneaton - Jodie Gosling (Lab) - 15216 votes
+Old Bexley and Sidcup - Louie French (Con) - 17910 votes
+Oldham East and Saddleworth - Debbie Abrahams (Lab) - 14091 votes
+Oldham West  Chadderton and Royton - Jim McMahon (Lab) - 13232 votes
+Orkney and Shetland - Alistair Carmichael (SNP) - 3585 votes
+Orpington - Gareth Bacon (Con) - 17504 votes
+Ossett and Denby Dale - Jade Botterill (Lab) - 17232 votes
+Oxford East - Anneliese Dodds (Lab) - 19541 votes
+Oxford West and Abingdon - Layla Moran (Con) - 8520 votes
+Paisley and Renfrewshire North - Alison Taylor (Lab) - 19561 votes
+Paisley and Renfrewshire South - Johanna Baxter (Lab) - 19583 votes
+Peckham - Miatta Fahnbulleh (Lab) - 22813 votes
+Pendle and Clitheroe - Jonathan Hinder (Lab) - 16129 votes
+Penistone and Stocksbridge - Marie Tidball (Lab) - 19169 votes
+Penrith and Solway - Markus Campbell-Savours (Lab) - 19986 votes
+Perth and Kinross-shire - Pete Wishart (SNP) - 18928 votes
+Peterborough - Andrew Pakes (Lab) - 13418 votes
+Plymouth Moor View - Fred Thomas (Lab) - 17665 votes
+Plymouth Sutton and Devonport - Luke Pollard (Lab) - 20795 votes
+Pontefract  Castleford and Knottingley - Yvette Cooper (Lab) - 17089 votes
+Pontypridd - Alex Davies-Jones (Lab) - 16225 votes
+Poole - Neil Duncan-Jordan (Lab) - 14168 votes
+Poplar and Limehouse - Apsana Begum (Lab) - 18535 votes
+Portsmouth North - Amanda Martin (Lab) - 14495 votes
+Portsmouth South - Stephen Morgan (Lab) - 18857 votes
+Preston - Mark Hendrick (Lab) - 14006 votes
+Putney - Fleur Anderson (Lab) - 24113 votes
+Queen's Park and Maida Vale - Georgia Gould (Lab) - 20126 votes
+Rawmarsh and Conisbrough - John Healey (Lab) - 16612 votes
+Rayleigh and Wickford - Mark Francois (Con) - 17756 votes
+Reading Central - Matt Rodda (Lab) - 21598 votes
+Reading West and Mid Berkshire - Olivia Bailey (Lab) - 16273 votes
+Redcar - Anna Turley (Lab) - 15663 votes
+Redditch - Chris Bloore (Lab) - 14810 votes
+Reigate - Rebecca Paul (Con) - 18822 votes
+Rhondda and Ogmore - Chris Bryant (Lab) - 17118 votes
+Ribble Valley - Maya Ellis (Lab) - 18177 votes
+Richmond and Northallerton - Rishi Sunak (Con) - 23059 votes
+Richmond Park - Sarah Olney (Con) - 11373 votes
+Rochdale - Paul Waugh (Lab) - 13027 votes
+Rochester and Strood - Lauren Edwards (Lab) - 15403 votes
+Romford - Andrew Rosindell (Con) - 15339 votes
+Romsey and Southampton North - Caroline Nokes (Con) - 19893 votes
+Rossendale and Darwen - Andy MacNae (Lab) - 18247 votes
+Rother Valley - Jake Richards (Lab) - 16023 votes
+Rotherham - Sarah Champion (Lab) - 16671 votes
+Rugby - John Slinger (Lab) - 19533 votes
+Ruislip  Northwood and Pinner - David Simmonds (Con) - 21366 votes
+Runcorn and Helsby - Mike Amesbury (Lab) - 22358 votes
+Runnymede and Weybridge - Ben Spencer (Con) - 18442 votes
+Rushcliffe - James Naish (Lab) - 25291 votes
+Rutherglen - Michael Shanks (Lab) - 21460 votes
+Rutland and Stamford - Alicia Kearns (Con) - 21248 votes
+Salford - Rebecca Long-Bailey (Lab) - 21132 votes
+Salisbury - John Glen (Con) - 17110 votes
+Scarborough and Whitby - Alison Hume (Lab) - 17758 votes
+Scunthorpe - Nicholas Dakin (Lab) - 15484 votes
+Sefton Central - Bill Esterson (Lab) - 26772 votes
+Selby - Keir Mather (Lab) - 22788 votes
+Sevenoaks - Laura Trott (Con) - 18328 votes
+Sheffield Brightside and Hillsborough - Gill Furniss (Lab) - 16301 votes
+Sheffield Central - Abtisam Mohamed (Lab) - 16569 votes
+Sheffield Hallam - Olivia Blake (Lab) - 23875 votes
+Sheffield Heeley - Louise Haigh (Lab) - 21230 votes
+Sheffield South East - Clive Betts (Lab) - 18710 votes
+Sherwood Forest - Michelle Welsh (Lab) - 18841 votes
+Shipley - Anna Dixon (Lab) - 21738 votes
+Shrewsbury - Julia Buckley (Lab) - 22932 votes
+Sittingbourne and Sheppey - Kevin McKenna (Lab) - 11919 votes
+Skipton and Ripon - Julian Smith (Con) - 18833 votes
+Sleaford and North Hykeham - Caroline Johnson (Con) - 17348 votes
+Slough - Tan Dhesi (Lab) - 14666 votes
+Smethwick - Gurinder Josan (Lab) - 16858 votes
+Solihull West and Shirley - Neil Shastri-Hurst (Con) - 16284 votes
+South Antrim - Robin Swann (UUP) - 16311 votes
+South Basildon and East Thurrock - James McMurdock (Lab) - 12080 votes
+South Cambridgeshire - Pippa Heylings (Con) - 15063 votes
+South Cotswolds - Roz Savage (Con) - 17988 votes
+South Derbyshire - Samantha Niblett (Lab) - 17734 votes
+South Devon - Caroline Voaden (Con) - 15413 votes
+South Dorset - Lloyd Hatton (Lab) - 15659 votes
+South Down - Chris Hazzard (SF) - 19698 votes
+South East Cornwall - Anna Gelderd (Lab) - 15670 votes
+South Holland and The Deepings - John Hayes (Con) - 17462 votes
+South Leicestershire - Alberto Costa (Con) - 18264 votes
+South Norfolk - Ben Goldsborough (Lab) - 17353 votes
+South Northamptonshire - Sarah Bool (Con) - 19191 votes
+South Ribble - Paul Foster (Lab) - 19840 votes
+South Shields - Emma Lewell-Buck (Lab) - 15122 votes
+South Shropshire - Stuart Anderson (Con) - 17628 votes
+South Suffolk - James Cartlidge (Con) - 16082 votes
+South West Devon - Rebecca Smith (Con) - 17916 votes
+South West Hertfordshire - Gagan Mohindra (Con) - 16458 votes
+South West Norfolk - Terry Jermy (Lab) - 11847 votes
+South West Wiltshire - Andrew Murrison (Con) - 15617 votes
+Southampton Itchen - Darren Paffey (Lab) - 15782 votes
+Southampton Test - Satvir Kaur (Lab) - 15945 votes
+Southend East and Rochford - Bayo Alaba (Lab) - 15395 votes
+Southend West and Leigh - David Burton-Sampson (Lab) - 16739 votes
+Southgate and Wood Green - Bambos Charalambous (Lab) - 23337 votes
+Southport - Patrick Hurley (Lab) - 17252 votes
+Spelthorne - Lincoln Jopp (Con) - 14038 votes
+Spen Valley - Kim Leadbeater (Lab) - 16076 votes
+St Albans - Daisy Cooper (Con) - 9388 votes
+St Austell and Newquay - Noah Law (Lab) - 15958 votes
+St Helens North - David Baines (Lab) - 21284 votes
+St Helens South and Whiston - Marie Rimmer (Lab) - 18919 votes
+St Ives - Andrew George (Con) - 11247 votes
+St Neots and Mid Cambridgeshire - Ian Sollom (Con) - 14896 votes
+Stafford - Leigh Ingham (Lab) - 18531 votes
+Staffordshire Moorlands - Karen Bradley (Con) - 15310 votes
+Stalybridge and Hyde - Jonathan Reynolds (Lab) - 16320 votes
+Stevenage - Kevin Bonavia (Lab) - 17698 votes
+Stirling and Strathallan - Chris Kane (Lab) - 16856 votes
+Stockport - Navendu Mishra (Lab) - 21787 votes
+Stockton North - Chris McDonald (Lab) - 17128 votes
+Stockton West - Matt Vickers (Con) - 20372 votes
+Stoke-on-Trent Central - Gareth Snell (Lab) - 14950 votes
+Stoke-on-Trent North - David Williams (Lab) - 14579 votes
+Stoke-on-Trent South - Allison Gardner (Lab) - 14221 votes
+Stone  Great Wyrley and Penkridge - Gavin Williamson (Con) - 19880 votes
+Stourbridge - Cat Eccles (Lab) - 15338 votes
+Strangford - Jim Shannon (DUP) - 15559 votes
+Stratford and Bow - Uma Kumaran (Lab) - 19145 votes
+Stratford-on-Avon - Manuela Perteghella (Con) - 16328 votes
+Streatham and Croydon North - Steve Reed (Lab) - 23232 votes
+Stretford and Urmston - Andrew Western (Lab) - 22642 votes
+Stroud - Simon Opher (Lab) - 25607 votes
+Suffolk Coastal - Jenny Riddell-Carpenter (Lab) - 15672 votes
+Sunderland Central - Lewis Atkinson (Lab) - 16852 votes
+Surrey Heath - Al Pinkerton (Con) - 15747 votes
+Sussex Weald - Nus Ghani (Con) - 16758 votes
+Sutton and Cheam - Luke Taylor (Con) - 13775 votes
+Sutton Coldfield - Andrew Mitchell (Con) - 18502 votes
+Swansea West - Torsten Bell (Lab) - 14761 votes
+Swindon North - Will Stone (Lab) - 17930 votes
+Swindon South - Heidi Alexander (Lab) - 21676 votes
+Tamworth - Sarah Edwards (Lab) - 15338 votes
+Tatton - Esther McVey (Con) - 19956 votes
+Taunton and Wellington - Gideon Amos (Con) - 12392 votes
+Telford - Shaun Davies (Lab) - 18212 votes
+Tewkesbury - Cameron Thomas (Con) - 14468 votes
+The Wrekin - Mark Pritchard (Con) - 16320 votes
+Thirsk and Malton - Kevin Hollinrake (Con) - 19544 votes
+Thornbury and Yate - Claire Young (Con) - 17801 votes
+Thurrock - Jen Craft (Lab) - 16050 votes
+Tipton and Wednesbury - Antonia Bance (Lab) - 11755 votes
+Tiverton and Minehead - Rachel Gilmour (Con) - 14819 votes
+Tonbridge - Tom Tugendhat (Con) - 20517 votes
+Tooting - Rosena Allin-Khan (Lab) - 29209 votes
+Torbay - Steve Darling (Con) - 13588 votes
+Torfaen - Nick Thomas-Symonds (Lab) - 15176 votes
+Torridge and Tavistock - Geoffrey Cox (Con) - 16049 votes
+Tottenham - David Lammy (Lab) - 23066 votes
+Truro and Falmouth - Jayne Kirkham (Lab) - 20783 votes
+Tunbridge Wells - Mike Martin (Con) - 14974 votes
+Twickenham - Munira Wilson (Con) - 8728 votes
+Tynemouth - Alan Campbell (Lab) - 24491 votes
+Upper Bann - Carla Lockhart (DUP) - 21642 votes
+Uxbridge and South Ruislip - Danny Beales (Lab) - 16599 votes
+Vale of Glamorgan - Kanishka Narayan (Lab) - 17740 votes
+Vauxhall and Camberwell Green - Florence Eshalomi (Lab) - 21528 votes
+Wakefield and Rothwell - Simon Lightwood (Lab) - 17773 votes
+Wallasey - Angela Eagle (Lab) - 24674 votes
+Walsall and Bloxwich - Valerie Vaz (Lab) - 12514 votes
+Walthamstow - Stella Creasy (Lab) - 27172 votes
+Warrington North - Charlotte Nichols (Lab) - 18730 votes
+Warrington South - Sarah Hall (Lab) - 23201 votes
+Warwick and Leamington - Matt Western (Lab) - 23975 votes
+Washington and Gateshead South - Sharon Hodgson (Lab) - 17682 votes
+Watford - Matt Turmaine (Lab) - 15708 votes
+Waveney Valley - Adrian Ramsay (Green) - 20467 votes
+Weald of Kent - Katie Lam (Con) - 20202 votes
+Wellingborough and Rushden - Gen Kitchen (Lab) - 17734 votes
+Wells and Mendip Hills - Tessa Munt (Con) - 12501 votes
+Welwyn Hatfield - Andrew Lewin (Lab) - 19877 votes
+West Aberdeenshire and Kincardine - Andrew Bowie (Con) - 17428 votes
+West Bromwich - Sarah Coombes (Lab) - 16872 votes
+West Dorset - Edward Morello (Con) - 19210 votes
+West Dunbartonshire - Douglas McAllister (Lab) - 19312 votes
+West Ham and Beckton - James Asser (Lab) - 16434 votes
+West Lancashire - Ashley Dalton (Lab) - 22305 votes
+West Suffolk - Nick Timothy (Con) - 15814 votes
+West Tyrone - àrfhlaith Begley (SF) - 22711 votes
+West Worcestershire - Harriett Baldwin (Con) - 19783 votes
+Westmorland and Lonsdale - Tim Farron (Con) - 9589 votes
+Weston-super-Mare - Daniel Aldridge (Lab) - 16310 votes
+Wetherby and Easingwold - Alec Shelbrooke (Con) - 20597 votes
+Whitehaven and Workington - Josh MacAlister (Lab) - 22173 votes
+Widnes and Halewood - Derek Twigg (Lab) - 23484 votes
+Wigan - Lisa Nandy (Lab) - 19401 votes
+Wimbledon - Paul Kohler (Con) - 12180 votes
+Winchester - Danny Chambers (Con) - 16118 votes
+Windsor - Jack Rankin (Con) - 16483 votes
+Wirral West - Matthew Patrick (Lab) - 23156 votes
+Witham - Priti Patel (Con) - 18827 votes
+Witney - Charles Maynard (Con) - 16493 votes
+Woking - Will Forster (Con) - 12773 votes
+Wokingham - Clive Jones (Con) - 17398 votes
+Wolverhampton North East - Sureena Brackenridge (Lab) - 14282 votes
+Wolverhampton South East - Pat McFadden (Lab) - 16800 votes
+Wolverhampton West - Warinder Juss (Lab) - 19331 votes
+Worcester - Tom Collins (Lab) - 18622 votes
+Worsley and Eccles - Michael Wheeler (Lab) - 20277 votes
+Worthing West - Beccy Cooper (Lab) - 20519 votes
+Wrexham - Andrew Ranger (Lab) - 15836 votes
+Wycombe - Emma Reynolds (Lab) - 16035 votes
+Wyre Forest - Mark Garnier (Con) - 14489 votes
+Wythenshawe and Sale East - Mike Kane (Lab) - 20596 votes
+Yeovil - Adam Dance (Con) - 11497 votes
+Ynys Mn - Llinos Medi (PC) - 10590 votes
+York Central - Rachael Maskell (Lab) - 24537 votes
+York Outer - Luke Charters (Lab) - 23161 votes
